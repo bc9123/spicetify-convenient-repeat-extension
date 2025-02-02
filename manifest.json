@@ -1,0 +1,11 @@
+{
+    "name": "Convenient Repeat",
+    "description": "Spicetify extension to add a convenient repeat menu for better control of repeat settings.",
+    "main": "index.js", 
+    "readme": "README.md", 
+    "authors": [
+      { "name": "bc9123", "url": "https://github.com/bc9123" }
+    ],
+    "tags": ["repeat", "convenient", "user interface"]
+  }
+  
