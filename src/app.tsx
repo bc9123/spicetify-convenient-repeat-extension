@@ -1,6 +1,6 @@
 // NAME: Convenient Repeat
 // AUTHOR: bc9123
-// VERSION: 0.1
+// VERSION: 1.0.0
 // DESCRIPTION: An extension for Spicetify that adds a convenient repeat options menu
 
 let debounceTimeout: ReturnType<typeof setTimeout>;
